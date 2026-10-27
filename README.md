@@ -1,6 +1,6 @@
 # Cutoff
 
-Debt and expense tracker for 15th/30th paychecks. Static page (`index.html`) + Supabase for login and storage.
+Bill and expense tracker for 15th/30th paychecks. Static page (`index.html`) + Supabase for login and storage.
 
 ## 1. Set up the database
 1. In Supabase, open **SQL Editor**, paste `schema.sql`, and run it.
